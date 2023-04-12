@@ -1,6 +1,11 @@
 CHANGELOG
 =========
 
+1.1.0 - 2023-04-12
+------------------
+
+Add the ability to directly configure the underlying Stork search engine via new `STORK_INPUT_OPTIONS` and `STORK_OUTPUT_OPTIONS` settings.
+
 1.0.2 - 2023-02-09
 ------------------
 
